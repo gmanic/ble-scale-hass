@@ -114,7 +114,7 @@ The integration will automatically use available Bluetooth proxies if configured
 
 Contributions are welcome! To add support for new scale models:
 
-1. Fork the [repository](https://github.com/KristianP26/ble-scale-hass)
+1. Fork the [repository](https://github.com/JustBeanie/ble-scale-hass)
 2. Add your scale's BLE characteristics to `custom_components/ble_scale/scales/`
 3. Test with your device
 4. Submit a pull request

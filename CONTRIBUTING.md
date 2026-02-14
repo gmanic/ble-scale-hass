@@ -40,7 +40,7 @@ Enhancement suggestions are tracked as GitHub issues. When creating an enhanceme
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KristianP26/ble-scale-hass
+   git clone https://github.com/JustBeanie/ble-scale-hass
    cd ble-scale-hass
    ```
 

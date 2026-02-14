@@ -3,10 +3,10 @@
   "domain": "ble_scale",
   "name": "BLE Scale",
   "codeowners": [
-    "@KristianP26"
+    "@JustBeanie"
   ],
   "config_flow": true,
-  "documentation": "https://github.com/KristianP26/ble-scale-hass",
+  "documentation": "https://github.com/JustBeanie/ble-scale-hass",
   "requirements": [
     "bleak==0.21.1"
   ],
