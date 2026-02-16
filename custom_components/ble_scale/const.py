@@ -5,6 +5,8 @@ from enum import Enum
 
 CONF_SCALE_MODEL = "scale_model"
 
+DOMAIN = "ble_scale"
+
 # Supported scale models from ble-scale-sync
 SCALE_MODELS = [
     "auto",
