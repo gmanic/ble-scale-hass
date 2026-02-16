@@ -1,6 +1,6 @@
 """Requirements for development."""
 homeassistant>=2024.1.0
-bleak==0.21.1
+bleak==2.1.1
 pytest>=7.0.0
 pytest-asyncio>=0.21.0
 pytest-cov>=4.0.0

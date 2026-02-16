@@ -8,7 +8,7 @@
   "config_flow": true,
   "documentation": "https://github.com/JustBeanie/ble-scale-hass",
   "requirements": [
-    "bleak==0.21.1"
+    "bleak==2.1.1"
   ],
   "version": "1.0.0",
   "min_ha_version": "2024.1.0",
